@@ -24,7 +24,3 @@ func process_items(items: Array) -> void:
 ## Credits
 
 - Syntax patterns informed by [dementive/SublimeGodot](https://github.com/dementive/SublimeGodot)
-
-## License
-
-MIT
